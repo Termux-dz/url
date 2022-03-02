@@ -14,7 +14,7 @@ git clone https://github.com/Termux-dz/url.git
 
 cd url 
 
-chmod +x *
+chmod 777 url.py
 
 python url.py
 
